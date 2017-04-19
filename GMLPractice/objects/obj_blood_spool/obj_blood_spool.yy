@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_blood_spool",
     "eventList": [
-        
+        {
+            "id": "0acc5f03-8b5b-4f26-8bab-b7a16746639a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a0245a02-2504-4fde-bea3-e1d61323a99b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
