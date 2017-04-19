@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-image_speed = 0.25;
+event_inherited();
+scr_ysera_create();

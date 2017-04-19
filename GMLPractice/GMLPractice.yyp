@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0731c2ed-1b29-4d1d-b9ca-55f098104545",
+            "Value": {
+                "id": "1e7d5033-7d21-4138-98bd-2f99c3712f9c",
+                "resourcePath": "objects\\obj_ysera_magic_bullet\\obj_ysera_magic_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "09610f6d-4ae4-463b-9d72-63218b001ac3",
             "Value": {
                 "id": "440f5be6-ba42-490d-b1eb-f8fb1c07d362",
@@ -83,6 +91,22 @@
             "Value": {
                 "id": "fe11dd9c-6889-4f48-a58f-ddf89aaebae7",
                 "resourcePath": "sprites\\spr_light\\spr_light.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "24e9d596-b360-4b8f-acbd-28fbca29fc90",
+            "Value": {
+                "id": "f7645ee9-ad30-4502-86b7-684aea27cc2f",
+                "resourcePath": "scripts\\scr_ysera_create\\scr_ysera_create.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2a5f47f2-643c-4369-9163-a3170105336f",
+            "Value": {
+                "id": "d112c59e-c50f-46d5-8d75-c28ee6a13191",
+                "resourcePath": "sprites\\spr_ysera_magic_bullet\\spr_ysera_magic_bullet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -199,10 +223,26 @@
             }
         },
         {
+            "Key": "6b8b61d1-3357-48af-b19f-ed929de4f8d1",
+            "Value": {
+                "id": "19009329-a66f-4e1d-b59d-bec4c665e9ca",
+                "resourcePath": "sprites\\spr_ysera_skill_effect\\spr_ysera_skill_effect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c7502a8-d3e6-4c88-8967-50aa106885b8",
             "Value": {
                 "id": "6442f268-e18c-4698-998e-189bbc1b3606",
                 "resourcePath": "sprites\\spr_statue\\spr_statue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "84809e2f-3f42-4d54-9a87-456d89e3882b",
+            "Value": {
+                "id": "0904e875-6bc2-411e-b66d-9d5b6d473f15",
+                "resourcePath": "sprites\\spr_ysera_attack_side\\spr_ysera_attack_side.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -231,11 +271,35 @@
             }
         },
         {
+            "Key": "a3117588-69e7-410d-8bd3-d4cc28c26fc4",
+            "Value": {
+                "id": "c9e5b3e1-0e84-4d22-82c6-8a43825c350f",
+                "resourcePath": "sprites\\spr_ysera_attack_back\\spr_ysera_attack_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a3b49381-f4a6-4aa1-84f9-01c62fcc4e6d",
             "Value": {
                 "id": "d35b616a-e2ed-4cb3-8b78-d7d67e66da94",
                 "resourcePath": "views\\a3b49381-f4a6-4aa1-84f9-01c62fcc4e6d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a3bdec4d-7fd7-405a-88a2-644df8f868f5",
+            "Value": {
+                "id": "f3147318-b5df-4567-8109-12eabfd6df7e",
+                "resourcePath": "objects\\obj_ysera_skill_effect\\obj_ysera_skill_effect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a6e57588-561b-474f-9dde-be8fd110bbab",
+            "Value": {
+                "id": "d20df911-fcca-4664-91f9-f3cb53f3ed24",
+                "resourcePath": "sprites\\spr_ysera_attack_front\\spr_ysera_attack_front.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -335,6 +399,14 @@
             }
         },
         {
+            "Key": "c86aee23-3891-4231-a364-07b0ab04d1d2",
+            "Value": {
+                "id": "b244dc3a-9925-4b43-a95e-7c677f4bfe2e",
+                "resourcePath": "sprites\\spr_ysera_skill\\spr_ysera_skill.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc662766-8b64-4973-a443-cb6399a2731e",
             "Value": {
                 "id": "7470f1f6-b169-41c3-9731-f53be5ddef56",
@@ -410,7 +482,7 @@
             "Key": "f33c6b5f-8d37-4d3f-9c60-da74c65ccf39",
             "Value": {
                 "id": "b68dbdf7-382b-429d-beed-303bbf707809",
-                "resourcePath": "scripts\\scr_yesera_step\\scr_yesera_step.yy",
+                "resourcePath": "scripts\\scr_ysera_step\\scr_ysera_step.yy",
                 "resourceType": "GMScript"
             }
         },
