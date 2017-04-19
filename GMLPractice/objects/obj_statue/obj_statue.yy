@@ -4,19 +4,10 @@
     "mvc": "1.0",
     "name": "obj_statue",
     "eventList": [
-        {
-            "id": "6f31919c-f354-4ac8-8556-fe6dd1a71d42",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "3082c44e-92d5-4a1f-b8c7-bc834ac5cbf9"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "31185728-ce3f-469a-b74f-5282f232c186",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

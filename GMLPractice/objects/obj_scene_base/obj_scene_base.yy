@@ -1,13 +1,13 @@
 {
-    "id": "a0245a02-2504-4fde-bea3-e1d61323a99b",
+    "id": "53111a6b-a096-4036-ac56-99a7e36ad8bb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_blood_spool",
+    "name": "obj_scene_base",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "31185728-ce3f-469a-b74f-5282f232c186",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "c81b6124-6cd2-43a2-bc8a-c6a9545f60d0",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
