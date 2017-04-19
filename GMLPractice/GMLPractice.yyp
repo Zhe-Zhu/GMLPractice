@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "18bf91f5-73b5-487b-8f51-6e101e4bfa47",
+            "Value": {
+                "id": "287ad2de-b81d-4c0d-a96c-8984ce409964",
+                "resourcePath": "sprites\\spr_ysera_walk_front\\spr_ysera_walk_front.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ecde59b-89cb-4d81-b327-818e2038258e",
             "Value": {
                 "id": "8707da17-6f8c-41d1-8542-c9f7f7c46c0d",
@@ -68,6 +76,22 @@
                 "id": "cd628e4d-6ce6-4c56-bc22-164daf62adaa",
                 "resourcePath": "views\\409cea40-fa50-41f9-b6d8-58b7243b7050.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "558801b0-2f7c-470a-b4e2-16aad9535481",
+            "Value": {
+                "id": "76fa6c1c-0c15-4e60-9da2-2c40de056b08",
+                "resourcePath": "objects\\obj_ysera\\obj_ysera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "57234a23-f120-47d0-9dd4-7c7e541ede32",
+            "Value": {
+                "id": "95e907fe-d8cd-4543-8b74-bf65fdb8df9e",
+                "resourcePath": "sprites\\spr_ysera_idle\\spr_ysera_idle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,6 +167,14 @@
             }
         },
         {
+            "Key": "c7536316-78af-4796-9283-5a844fc386d7",
+            "Value": {
+                "id": "9e25326f-030c-4eca-8653-495f6886e42f",
+                "resourcePath": "sprites\\spr_ysera_walk_back\\spr_ysera_walk_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b3957e1d-a715-4350-87b7-32fbd4f39316",
@@ -172,6 +204,22 @@
                 "id": "95e03c8a-f90e-4f18-ab0a-5274ae37376f",
                 "resourcePath": "views\\eb711a64-01ca-4989-9c9d-64c816d63fa9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f2617309-706e-47f5-9863-57e7e9c3c3da",
+            "Value": {
+                "id": "db8bf76d-3ce4-481f-a264-fc2b40b979ba",
+                "resourcePath": "sprites\\spr_ysera_walk_side\\spr_ysera_walk_side.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f33c6b5f-8d37-4d3f-9c60-da74c65ccf39",
+            "Value": {
+                "id": "b68dbdf7-382b-429d-beed-303bbf707809",
+                "resourcePath": "scripts\\scr_yesera_step\\scr_yesera_step.yy",
+                "resourceType": "GMScript"
             }
         },
         {
