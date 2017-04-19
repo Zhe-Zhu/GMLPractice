@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "obj_ysera_magic_bullet",
     "eventList": [
-        
+        {
+            "id": "65a6b7a0-4e05-43da-99c6-a899ebb28b36",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0731c2ed-1b29-4d1d-b9ca-55f098104545"
+        },
+        {
+            "id": "4721b193-01c8-4459-8b45-5301e7da8ab4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "0731c2ed-1b29-4d1d-b9ca-55f098104545"
+        },
+        {
+            "id": "a96e6ce7-816e-4b1e-99dc-d62ef3f3e25a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 7,
+            "m_owner": "0731c2ed-1b29-4d1d-b9ca-55f098104545"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",

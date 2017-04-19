@@ -66,7 +66,34 @@ if(sprite_index == spr_ysera_attack_side
 || sprite_index == spr_ysera_attack_front
 || sprite_index == spr_ysera_attack_back){
     if(image_index > 2 && m_fired == false){
-        instance_create_depth(x, y, -y, obj_ysera_magic_bullet);
+        var magicBullet = instance_create_depth(x, y, -y, obj_ysera_magic_bullet);
+		var deltaX = 0;
+        var deltaY = 0;
+		switch(m_playerDirection){
+	        case PlayerDirection.UP:
+	          magicBullet.m_speedY = -10;
+			  magicBullet.image_angle = 270;
+			  deltaY = -89;
+	          break;
+	        case PlayerDirection.DOWN:
+	          magicBullet.m_speedY = 10;
+			  magicBullet.image_angle = 90;
+			  deltaY = 7;
+	          break;
+	        case PlayerDirection.LEFT:
+	          magicBullet.m_speedX = -10;
+			  deltaX = -65;
+              deltaY = -33;
+	          break;
+	        case PlayerDirection.RIGHT:
+	          magicBullet.m_speedX = 10;
+			  magicBullet.image_angle = 180;
+			  deltaX = 65;
+			  deltaY = -33;
+	          break;
+        } 
+		magicBullet.x += deltaX;
+        magicBullet.y += deltaY;
         m_fired = true;
     }
 }

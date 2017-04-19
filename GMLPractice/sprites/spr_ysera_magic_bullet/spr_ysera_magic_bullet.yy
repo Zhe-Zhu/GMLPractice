@@ -119,7 +119,7 @@
             "visible": true
         }
     ],
-    "origin": 9,
+    "origin": 4,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "sepmasks": false,
@@ -128,6 +128,6 @@
     "textureGroup": 0,
     "type": 0,
     "width": 160,
-    "xorig": 79,
-    "yorig": 79
+    "xorig": 80,
+    "yorig": 80
 }
